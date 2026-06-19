@@ -1,0 +1,2 @@
+python Parkinson.py
+pause
